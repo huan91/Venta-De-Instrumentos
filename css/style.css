@@ -9,6 +9,23 @@ h1{
 }
 h3{
     color: navajowhite;
-    font-family: Verdana;
+    font-family: cursive;
     text-align: center;
+}
+p{
+    color: snow;
+    font-family: geneva;
+    font-size: 100%;
+}
+td{
+    color: red;
+    font-family: 'Times New Roman';
+
+}
+th{
+    color: papayawhip;
+    font-family: monospace;
+}
+tbody{
+    color: white;   
 }
