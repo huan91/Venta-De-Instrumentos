@@ -1,5 +1,12 @@
 body{
-    background-color:#1F0D0A;
+ 
+  background-image: url("../img/fondo2.jpg");
+}
+#portada{
+    border: ridge;
+    border-width:6px;
+    border-color:aqua;
+
 }
 h1{
     color: white;
@@ -18,14 +25,20 @@ p{
     font-size: 200%;
 }
 td{
-    color: red;
+    border: double;
+    border-color:aqua;
     font-family: 'Times New Roman';
+    color: #CEF6F5;
+    font-size: 16px;
 
 }
 th{
-    color: papayawhip;
+    border: double;
+    border-color:aqua;
+    border-width: 8px;
     font-family: monospace;
-    font-size: 200%; 
+    font-size: 20px;
+    color: #CEF6F5; 
 }
 ol{
     color: whitesmoke;
