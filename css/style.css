@@ -1,12 +1,18 @@
 body{
  
-  background-image: url("../img/fondo2.jpg");
+ background-image: url("../img/fondo2.jpg");
 }
 #portada{
     border: ridge;
     border-width:6px;
     border-color:aqua;
-
+  
+}
+#cuerpo{
+    border-style: solid;
+    border-color:#00ffff;
+    border-width: 5px;
+    
 }
 h1{
     color: white;
@@ -43,4 +49,9 @@ th{
 ol{
     color: whitesmoke;
     font-size: 200%;
+}
+hr{
+    width: 60px;
+    height: 20px;
+    background: green;
 }
