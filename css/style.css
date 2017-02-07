@@ -15,10 +15,14 @@ body{
     
 }
 #redes{
+    margin:30px; 
+    width: 900px;
+    height: 100px;
     border: solid;
     border-color: aqua;
     border-width:4px;
-    background-color: azure;
+    background-color:skyblue;
+    padding: 10px;
    
 }
 h1{
@@ -64,8 +68,9 @@ hr{
     background: green;
 }
 #parraRedes{
+    margin: 5px;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     font-family: cursive;
     color:blue;
 }
